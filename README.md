@@ -7,8 +7,8 @@ It demonstrates deep learning for agriculture and computer vision.
 
 ## 📄 Project Report
 You can view the full project presentation here:  
-[📕 CV Project Presentation PDF](CV_Project_Presentation_PLant_Seedling__Classification_Yolanda_OMalley.pptx)
-
+[📕 CV Project Presentation PPTX](CV_Project_Presentation_PLant_Seedling__Classification_Yolanda_OMalley.pptx)
+[📕 CV Project Presentation PDF](CV_Project_Presentation_PLant_Seedling__Classification_Yolanda_OMalley.pdf)
 ## 🛠 Tools & Technologies
 - Python
 - TensorFlow / Keras
