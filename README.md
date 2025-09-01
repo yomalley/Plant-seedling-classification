@@ -7,7 +7,7 @@ It demonstrates deep learning for agriculture and computer vision.
 
 ## 📄 Project Report
 You can view the full project presentation here:  
-[📕 CV Project Presentation PDF](CV_Project_Presentation_PLant_Seedling__Classification_Yolanda_OMalley%20(2).pdf)
+[📕 CV Project Presentation PDF](CV_Project_Presentation_PLant_Seedling__Classification_Yolanda_OMalley.pptx)
 
 ## 🛠 Tools & Technologies
 - Python
